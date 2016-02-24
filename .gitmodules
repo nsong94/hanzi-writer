@@ -1,0 +1,3 @@
+[submodule "vendor/cdl-utils"]
+	path = vendor/cdl-utils
+	url = git@bitbucket.org:chanind/cdl-utils.git
